@@ -17,3 +17,26 @@
 2.<span style="text-decoration: none; color: white;">GitHub</span> - https://github.com/Tejas-pr?tab=repositories <br>
 3.<span style="text-decoration: none; color: white;">Phone</span> - 9538632743 <br>
 4.<span style="text-decoration: none; color: white;">Email</span> - tejas.teju02@gmail.com <br>
+
+
+
+
+
+<h1 align="center">Hi 👋, I'm Tejas P R</h1>
+
+<h3 align="left">Project links:</h3>
+1. [Tindog website] - (https://tejas-pr.github.io/using_bootstarp2/) <br>
+2. [Drum kit website](https://tejas-pr.github.io/drum/) <br>
+3. [Pet Boarding website](https://tejas-pr.github.io/PetBoarding_website/) <br>
+4. [Dice game](https://tejas-pr.github.io/Dice/) <br>
+5. [Zelt clone website](https://tejas-pr.github.io/Zelt_clone/) <br>
+6. [Hotel website using canva](https://www.canva.com/design/DAFoWDO-W48/cu3X2VF5jg2DteQUgfwlzA/view?website#4:goku) <br>
+7. [FlexBox price table](https://tejas-pr.github.io/priceing_table/) <br>
+8. [Flipkart clone](https://tejas-pr.github.io/Flipkart_clone/) <br>
+9. [Telecom website](https://tejas-pr.github.io/using_bootstrap1/) <br>
+
+<h3 align="left">Social :</h3>
+1. [Linkedin](www.linkedin.com/in/tejas-p-r-057a4622a) <br>
+2. [GitHub](https://github.com/Tejas-pr?tab=repositories) <br>
+3. [Phone](tel:9538632743) <br>
+4. [Email](mailto:tejas.teju02@gmail.com) <br>
