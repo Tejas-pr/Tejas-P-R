@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tejas P R </h1>
 <br>
-<a href="document.pdf" download="document.pdf">Click to Download</a>
-
+<h2 align="center">
+  <a href="document.pdf" download="document.pdf" style="display: inline-block; padding: 10px 20px; background-color: black; color: white; text-decoration: none; border-radius: 5px; border: none; cursor: pointer;">Click to Download</a>
+</h2>
+<br>
 <h3 align="left">Project links:</h3>
 1. <a href="https://tejas-pr.github.io/using_bootstarp2/" style="text-decoration: none;">Tindog website</a> <br>
 2. <a href="https://tejas-pr.github.io/drum/" style="text-decoration: none;">Drum kit website</a> <br>
