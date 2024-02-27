@@ -16,4 +16,18 @@
 2. <a href="https://github.com/Tejas-pr?tab=repositories" style="text-decoration: none;">GitHub</a><br>
 3. <a href="tejas.teju02@gmail.com" style="text-decoration: none;">Email </a> - tejas.teju02@gmail.com<br>
 4. Phone - 9538632743 <br>
+<br>
 
+SKILLS :  <br>
+• Database: MySQL. <br>
+• Programming: Java, Data Structures and Algorithm, Python. <br>
+• Operating System: Windows. <br>
+• Microsoft Office: Word, Excel, PowerPoint.  <br>
+• Front-end web development: Html, CSS, JavaScript. <br>
+<br>
+
+AWARDS & ACHIEVEMENTS	: <br>
+•	I won First place in the volleyball competition held on behalf of the Inter-Faculty Sports. <br>
+•	Competition Hosted National Sports day. <br>
+•	Paper Publication Paper Title: “Financial Fortunes: Stock Price Prediction Using LSTM”. The Paper has been accepted for publication in the Springer LNNS series (yet to be published). <br>
+•	Participated at National Level Poster Presentation Competition conducted on 6th November 2023 at MSRUAS. <br>
