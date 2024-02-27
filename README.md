@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejas P R</h1>
 
 <h3 align="left">Project links:</h3>
+1.<span ">Tindog website</span> - <a href="https://tejas-pr.github.io/using_bootstarp2/"></a> <br>
 1.<span style="text-decoration: none; color: white;">Tindog website</span> - https://tejas-pr.github.io/using_bootstarp2/ <br>
 2.<span style="text-decoration: none; color: white;">Drum kit website</span> - https://tejas-pr.github.io/drum/ <br>
 3.<span style="text-decoration: none; color: white;">Pet Boarding website </span> - https://tejas-pr.github.io/PetBoarding_website/ <br>
