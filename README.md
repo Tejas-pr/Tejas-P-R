@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Tejas P R</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejas-pr&label=Profile%20views&color=0e75b6&style=flat" alt="tejas-pr" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@tejas67061437" target="blank"><img src="https://img.shields.io/twitter/follow/@tejas67061437?logo=twitter&style=for-the-badge" alt="@tejas67061437" /></a> </p>
+<h3 align="left">Project links:</h3>
+1.<span style="text-decoration: none; color: white;">Tindog website</span> - https://tejas-pr.github.io/using_bootstarp2/ <br>
+2.<span style="text-decoration: none; color: white;">Drum kit website</span> - https://tejas-pr.github.io/drum/ <br>
+3.<span style="text-decoration: none; color: white;">Pet Boarding website </span> - https://tejas-pr.github.io/PetBoarding_website/ <br>
+4.<span style="text-decoration: none; color: white;">Dice game</span> - https://tejas-pr.github.io/Dice/ <br>
+5.<span style="text-decoration: none; color: white;">Zelt clone website</span> - https://tejas-pr.github.io/Zelt_clone/ <br>
+6.<span style="text-decoration: none; color: white;">Hotel website using canva</span> - https://www.canva.com/design/DAFoWDO-W48/cu3X2VF5jg2DteQUgfwlzA/view?website#4:goku <br>
+7.<span style="text-decoration: none; color: white;">FlexBox price table</span> - https://tejas-pr.github.io/priceing_table/ <br>
+8.<span style="text-decoration: none; color: white;">Flipkart clone</span> - https://tejas-pr.github.io/Flipkart_clone/ <br>
+9.<span style="text-decoration: none; color: white;">Telecom website </span> - https://tejas-pr.github.io/using_bootstrap1/ <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@tejas67061437" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tejas67061437" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tejas-p-r-057a4622a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tejas-p-r-057a4622a/" height="30" width="40" /></a>
-<a href="https://instagram.com/tejas_p_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tejas_p_r" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/tejas_p_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/tejas_p_r" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/user8844bz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/user8844bz/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-
-
+<h3 align="left">Social :</h3>
+1.<span style="text-decoration: none; color: white;">Linkedin</span> - www.linkedin.com/in/tejas-p-r-057a4622a <br>
+2.<span style="text-decoration: none; color: white;">GitHub</span> - https://github.com/Tejas-pr?tab=repositories <br>
+3.<span style="text-decoration: none; color: white;">Phone</span> - 9538632743 <br>
+4.<span style="text-decoration: none; color: white;">Email</span> - tejas.teju02@gmail.com <br>
