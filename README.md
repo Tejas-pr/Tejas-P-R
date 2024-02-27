@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tejas P R</h1>
+<h1 align="center">Hi 👋, I'm Tejas P R </h1>
 
 <h3 align="left">Project links:</h3>
 1. <a href="https://tejas-pr.github.io/using_bootstarp2/" style="text-decoration: none;">Tindog website</a> <br>
@@ -29,5 +29,5 @@ SKILLS :  <br>
 AWARDS & ACHIEVEMENTS	: <br>
 •	I won First place in the volleyball competition held on behalf of the Inter-Faculty Sports. <br>
 •	Competition Hosted National Sports day. <br>
-•	Paper Publication Paper Title: “Financial Fortunes: Stock Price Prediction Using LSTM”. The Paper has been accepted for publication in the Springer LNNS series (yet to be published). <br>
+•	Paper Publication Paper Title: “Financial Fortunes: Stock Price Prediction Using LSTM”. The Paper has been accepted for publication in the Springer publications. <br>
 •	Participated at National Level Poster Presentation Competition conducted on 6th November 2023 at MSRUAS. <br>
