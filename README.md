@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejas P R </h1>
 <br>
 <h2 align="center">
-  <a href="Tejas P R_resume_good.pdf" download="Tejas P R_resume_good.pdf" style="display: inline-block; padding: 10px 20px; background-color: black; color: white; text-decoration: none; border-radius: 5px; border: none; cursor: pointer;">Click to Download</a>
+  <a href="Tejas P R_resume_good.pdf" download="Tejas P R_resume_good.pdf" style="display: inline-block; padding: 10px 20px; background-color: black; color: white; text-decoration: none; border-radius: 5px; border: none; cursor: pointer;">"Click to view and download my resume."</a>
 </h2>
 <br>
 <h3 align="left">Project links:</h3>
