@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tejas P R </h1>
+<br>
+<a href="document.pdf" download="document.pdf">Click to Download</a>
 
 <h3 align="left">Project links:</h3>
 1. <a href="https://tejas-pr.github.io/using_bootstarp2/" style="text-decoration: none;">Tindog website</a> <br>
