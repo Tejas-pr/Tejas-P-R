@@ -17,6 +17,7 @@
 
 <h3 align="left">Social:</h3>
 1. <a href="https://www.linkedin.com/in/tejas-p-r-057a4622a" style="text-decoration: none;">LinkedIn</a><br>
+1. <a href="https://twitter.com/Tejas67061437" style="text-decoration: none;">Twitter</a><br>
 2. <a href="https://github.com/Tejas-pr?tab=repositories" style="text-decoration: none;">GitHub</a><br>
 3. <a href="tejas.teju02@gmail.com" style="text-decoration: none;">Email </a> - tejas.teju02@gmail.com<br>
 4. Phone - 9538632743 <br>
